@@ -26,7 +26,7 @@ struct NoneWebSocketState: WebSocketState {
 
         let connecting: WebSocketStates = .connecting(
             address: context.address,
-            token: context.token
+            token: context.token ?? ""
         )
 
         context.setState(name: connecting)

@@ -12,12 +12,19 @@
 
 import SwiftUI
 
+/// The finite states for the WebSocket state machine. Each state represents has specific exit conditions that lead to other states.
 public enum WebSocketStates {
+    /// If there is a token an extra state transition will wait for the first packet to return
     case authenticating(token: String)
+    /// Waiting for the server to resolve
     case connecting(address: String, token: String)
+    /// Server is valid and the connection is ready to send and receive data
     case connected
+    /// Transitioning to none, clean-up during this state
     case disconnecting
+    /// Something went wrong, terminal state
     case error(description: String)
+    /// Start and end state
     case none
     
     var state: any WebSocketState {

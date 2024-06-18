@@ -13,11 +13,14 @@
 import Foundation
 import SwiftUI
 
+/// The implementation of the ``WebSocketProtocol`` that uses a
+/// [`URLSessionWebSocketTask`](https://developer.apple.com/documentation/foundation/urlsessionwebsockettask)
+/// as the WebSocket implementation.
 public class WebSocketContext: NSObject, WebSocketProtocol, ObservableObject {
     
     var webSocketTask: URLSessionWebSocketTask? = nil
     let address: String
-    let token: String
+    let token: String?
     let headers: [String: String]
     
     public var stateChanged: ((WebSocketStates) -> Void)? = nil
@@ -58,7 +61,7 @@ public class WebSocketContext: NSObject, WebSocketProtocol, ObservableObject {
     
     required public init(
         address: String,
-        token: String,
+        token: String?,
         headers: [String: String]
     ) {
         
@@ -124,9 +127,9 @@ extension WebSocketContext: URLSessionWebSocketDelegate {
     ) {
         
         guard let headers = session.configuration.httpAdditionalHeaders else {
-
+            
             return
-
+            
         }
         
         headers.forEach { header in

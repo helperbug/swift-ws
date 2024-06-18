@@ -44,8 +44,7 @@ class ConnectedWebSocketState: WebSocketState {
         }
     }
     
-    func send(_ context: WebSocketContext, data: String?) {
-        guard let data else { return }
+    func send(_ context: WebSocketContext, data: String) {
         
         let message = URLSessionWebSocketTask.Message.string(data)
         
