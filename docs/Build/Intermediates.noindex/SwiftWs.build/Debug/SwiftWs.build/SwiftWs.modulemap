@@ -1,0 +1,4 @@
+module SwiftWs {
+header "SwiftWs-Swift.h"
+export *
+}

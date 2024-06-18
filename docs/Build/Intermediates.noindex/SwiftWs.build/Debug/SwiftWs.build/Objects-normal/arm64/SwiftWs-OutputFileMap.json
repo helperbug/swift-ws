@@ -1,0 +1,118 @@
+{
+  "" : {
+    "diagnostics" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/SwiftWs-master.dia",
+    "emit-module-dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/SwiftWs-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/SwiftWs-master-emit-module.dia",
+    "swift-dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/SwiftWs-master.swiftdeps"
+  },
+  "/Users/benwaidhofer/Documents/GitHub/swift-ws/Sources/swift-ws/WebSocketClient/States/AuthenticatingWebSocketState.swift" : {
+    "const-values" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/AuthenticatingWebSocketState.swiftconstvalues",
+    "dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/AuthenticatingWebSocketState.d",
+    "diagnostics" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/AuthenticatingWebSocketState.dia",
+    "index-unit-output-path" : "/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/AuthenticatingWebSocketState.o",
+    "llvm-bc" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/AuthenticatingWebSocketState.bc",
+    "object" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/AuthenticatingWebSocketState.o",
+    "swift-dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/AuthenticatingWebSocketState.swiftdeps",
+    "swiftmodule" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/AuthenticatingWebSocketState~partial.swiftmodule"
+  },
+  "/Users/benwaidhofer/Documents/GitHub/swift-ws/Sources/swift-ws/WebSocketClient/States/ConnectedWebSocketState.swift" : {
+    "const-values" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectedWebSocketState.swiftconstvalues",
+    "dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectedWebSocketState.d",
+    "diagnostics" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectedWebSocketState.dia",
+    "index-unit-output-path" : "/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectedWebSocketState.o",
+    "llvm-bc" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectedWebSocketState.bc",
+    "object" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectedWebSocketState.o",
+    "swift-dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectedWebSocketState.swiftdeps",
+    "swiftmodule" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectedWebSocketState~partial.swiftmodule"
+  },
+  "/Users/benwaidhofer/Documents/GitHub/swift-ws/Sources/swift-ws/WebSocketClient/States/ConnectingWebSocketState.swift" : {
+    "const-values" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectingWebSocketState.swiftconstvalues",
+    "dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectingWebSocketState.d",
+    "diagnostics" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectingWebSocketState.dia",
+    "index-unit-output-path" : "/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectingWebSocketState.o",
+    "llvm-bc" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectingWebSocketState.bc",
+    "object" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectingWebSocketState.o",
+    "swift-dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectingWebSocketState.swiftdeps",
+    "swiftmodule" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ConnectingWebSocketState~partial.swiftmodule"
+  },
+  "/Users/benwaidhofer/Documents/GitHub/swift-ws/Sources/swift-ws/WebSocketClient/States/DisconnectingWebSocketState.swift" : {
+    "const-values" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/DisconnectingWebSocketState.swiftconstvalues",
+    "dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/DisconnectingWebSocketState.d",
+    "diagnostics" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/DisconnectingWebSocketState.dia",
+    "index-unit-output-path" : "/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/DisconnectingWebSocketState.o",
+    "llvm-bc" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/DisconnectingWebSocketState.bc",
+    "object" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/DisconnectingWebSocketState.o",
+    "swift-dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/DisconnectingWebSocketState.swiftdeps",
+    "swiftmodule" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/DisconnectingWebSocketState~partial.swiftmodule"
+  },
+  "/Users/benwaidhofer/Documents/GitHub/swift-ws/Sources/swift-ws/WebSocketClient/States/ErrorWebSocketState.swift" : {
+    "const-values" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ErrorWebSocketState.swiftconstvalues",
+    "dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ErrorWebSocketState.d",
+    "diagnostics" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ErrorWebSocketState.dia",
+    "index-unit-output-path" : "/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ErrorWebSocketState.o",
+    "llvm-bc" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ErrorWebSocketState.bc",
+    "object" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ErrorWebSocketState.o",
+    "swift-dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ErrorWebSocketState.swiftdeps",
+    "swiftmodule" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/ErrorWebSocketState~partial.swiftmodule"
+  },
+  "/Users/benwaidhofer/Documents/GitHub/swift-ws/Sources/swift-ws/WebSocketClient/States/NoneWebSocketState.swift" : {
+    "const-values" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/NoneWebSocketState.swiftconstvalues",
+    "dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/NoneWebSocketState.d",
+    "diagnostics" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/NoneWebSocketState.dia",
+    "index-unit-output-path" : "/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/NoneWebSocketState.o",
+    "llvm-bc" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/NoneWebSocketState.bc",
+    "object" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/NoneWebSocketState.o",
+    "swift-dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/NoneWebSocketState.swiftdeps",
+    "swiftmodule" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/NoneWebSocketState~partial.swiftmodule"
+  },
+  "/Users/benwaidhofer/Documents/GitHub/swift-ws/Sources/swift-ws/WebSocketClient/States/WebSocketState.swift" : {
+    "const-values" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketState.swiftconstvalues",
+    "dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketState.d",
+    "diagnostics" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketState.dia",
+    "index-unit-output-path" : "/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketState.o",
+    "llvm-bc" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketState.bc",
+    "object" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketState.o",
+    "swift-dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketState.swiftdeps",
+    "swiftmodule" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketState~partial.swiftmodule"
+  },
+  "/Users/benwaidhofer/Documents/GitHub/swift-ws/Sources/swift-ws/WebSocketClient/States/WebSocketStates.swift" : {
+    "const-values" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStates.swiftconstvalues",
+    "dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStates.d",
+    "diagnostics" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStates.dia",
+    "index-unit-output-path" : "/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStates.o",
+    "llvm-bc" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStates.bc",
+    "object" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStates.o",
+    "swift-dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStates.swiftdeps",
+    "swiftmodule" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStates~partial.swiftmodule"
+  },
+  "/Users/benwaidhofer/Documents/GitHub/swift-ws/Sources/swift-ws/WebSocketClient/WebSocketContext.swift" : {
+    "const-values" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketContext.swiftconstvalues",
+    "dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketContext.d",
+    "diagnostics" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketContext.dia",
+    "index-unit-output-path" : "/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketContext.o",
+    "llvm-bc" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketContext.bc",
+    "object" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketContext.o",
+    "swift-dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketContext.swiftdeps",
+    "swiftmodule" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketContext~partial.swiftmodule"
+  },
+  "/Users/benwaidhofer/Documents/GitHub/swift-ws/Sources/swift-ws/WebSocketClient/WebSocketProtocol.swift" : {
+    "const-values" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketProtocol.swiftconstvalues",
+    "dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketProtocol.d",
+    "diagnostics" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketProtocol.dia",
+    "index-unit-output-path" : "/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketProtocol.o",
+    "llvm-bc" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketProtocol.bc",
+    "object" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketProtocol.o",
+    "swift-dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketProtocol.swiftdeps",
+    "swiftmodule" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketProtocol~partial.swiftmodule"
+  },
+  "/Users/benwaidhofer/Documents/GitHub/swift-ws/Sources/swift-ws/WebSocketClient/WebSocketStateView.swift" : {
+    "const-values" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStateView.swiftconstvalues",
+    "dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStateView.d",
+    "diagnostics" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStateView.dia",
+    "index-unit-output-path" : "/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStateView.o",
+    "llvm-bc" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStateView.bc",
+    "object" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStateView.o",
+    "swift-dependencies" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStateView.swiftdeps",
+    "swiftmodule" : "/Users/benwaidhofer/Documents/GitHub/swift-ws/docs/Build/Intermediates.noindex/SwiftWs.build/Debug/SwiftWs.build/Objects-normal/arm64/WebSocketStateView~partial.swiftmodule"
+  }
+}

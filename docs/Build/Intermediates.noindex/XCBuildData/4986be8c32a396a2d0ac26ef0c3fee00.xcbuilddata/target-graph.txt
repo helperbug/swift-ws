@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'SwiftWs' in project 'SwiftWs'
+➜ Explicit dependency on target 'SwiftWs' in project 'SwiftWs'
+Target 'SwiftWs' in project 'SwiftWs' (no dependencies)
