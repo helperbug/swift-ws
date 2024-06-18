@@ -64,7 +64,7 @@ extension WebSocketStates: Equatable {
         case .error:
             return .red
         case .none:
-            return .gray
+            return .purple
         }
     }
 
