@@ -1,23 +1,22 @@
 # SwiftWs
 
-SwiftWs brings an easy-to-use wrapper around `URLSessionWebSocketTask` written in Swift. It includes support for HTTP headers for additional parameter passing and allows easy connection using a token. The library provides callbacks for state changes and data arrival, and includes methods for sending messages and disconnecting.
+SwiftWs brings an easy-to-use wrapper around `URLSessionWebSocketTask` written in Swift. It includes support for HTTP headers and an extra state if an optional token is passed. The library provides delegates for state changes and data arrival, and includes methods for sending messages and disconnecting.
 
-- Uses a state machine pattern similar to `URLSessionWebSocketTask`
-- Easy connection with token support
-- Supports HTTP headers during initial connection for additional parameters
+- Uses a state machine pattern mirroring to `URLSessionWebSocketTask` states
+- Supports HTTP headers during initial token for additional parameters
 - Provides updates on state changes
 - Handles data arrival notifications
-- Includes methods to send messages
-- Allows disconnection from the WebSocket server
+- Includes methods to send messages and disconnect
+- Has a simple test to show basic usage
 
 ## Documentation
 
-For detailed documentation, please visit [Swift-WS Documentation](https://helperbug.github.io).
+For detailed documentation, please visit [SwiftWs Documentation](https://helperbug.github.io/swift-ws/documentation/swiftws/).
 
-## Image
+## Web Socket States
 
 ![WebSocket States](WebSocketStates.png)
 
 ## License
 
-Swift-WS is released under the MIT License. See [LICENSE](LICENSE) for details.
+SwiftWs is released under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for details.
